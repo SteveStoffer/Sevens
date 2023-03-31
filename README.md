@@ -8,3 +8,9 @@ This is a simple card game called "Sevens" created in C++. This is my first proj
 - If you can't put a card down, you have to pass.
 - Ace is the lowest card (below 2) and King is the highest card.
 - The first person to have no cards left wins!
+
+![Welcome Screen](https://user-images.githubusercontent.com/59321074/229232748-e1ffb106-d277-47ac-b24c-323bfe4f8655.png)
+![first play](https://user-images.githubusercontent.com/59321074/229232757-2271a507-96b8-463d-ac15-a496954d8b8d.png)
+![game_play1](https://user-images.githubusercontent.com/59321074/229232772-ac96891b-8164-474e-95f2-9bc34f697224.png)
+![game_play2](https://user-images.githubusercontent.com/59321074/229232783-ef25c2d7-2ee0-4f18-b284-f9983782d290.png)
+![loser](https://user-images.githubusercontent.com/59321074/229232795-a87becea-ea37-4434-8cf9-e22678caed3c.png)
