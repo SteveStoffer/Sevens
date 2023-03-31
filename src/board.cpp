@@ -119,7 +119,7 @@ void Board::putDownCard(const Card& card){
 
 // Checks if a card can be played.
 bool Board::canPlayCard(const Card& card){
-  
+
   // No card has a value of 0 unless the rank is "max_rank".
   // If a card is passed with a value of 0, the card is not
   // valid and can not be played.
