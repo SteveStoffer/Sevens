@@ -13,4 +13,4 @@ This is a simple card game called "Sevens" created in C++. This is my first proj
 ![first play](https://user-images.githubusercontent.com/59321074/229232757-2271a507-96b8-463d-ac15-a496954d8b8d.png)\
 ![game_play1](https://user-images.githubusercontent.com/59321074/229232772-ac96891b-8164-474e-95f2-9bc34f697224.png)\
 ![game_play2](https://user-images.githubusercontent.com/59321074/229232783-ef25c2d7-2ee0-4f18-b284-f9983782d290.png)\
-![loser](https://user-images.githubusercontent.com/59321074/229232795-a87becea-ea37-4434-8cf9-e22678caed3c.png)\
+![loser](https://user-images.githubusercontent.com/59321074/229232795-a87becea-ea37-4434-8cf9-e22678caed3c.png)
