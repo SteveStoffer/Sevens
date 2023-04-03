@@ -1,4 +1,4 @@
-#include "headers/card.h"
+#include "card.h"
 #include <cassert>
 #include <iostream>
 #include <string_view>

@@ -1,4 +1,4 @@
-#include "headers/deck.h"
+#include "deck.h"
 #include <algorithm> // std::shuffle
 #include <ctime>
 #include <iostream>

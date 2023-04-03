@@ -1,4 +1,4 @@
-#include "headers/printfunctions.h"
+#include "printfunctions.h"
 #include <iostream>
 
 void printLose(){

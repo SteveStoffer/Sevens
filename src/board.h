@@ -16,7 +16,8 @@ public:
   Board();
   void printBoard() const;
   void putDownCard(const Card& card);
-  bool canPlayCard(const Card& card);  
+  bool canPlayCard(const Card& card);
 };
+
 
 #endif // BOARD_H

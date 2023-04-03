@@ -1,4 +1,4 @@
-#include "headers/board.h"
+#include "board.h"
 #include <iostream>
 
 // Constructs the board. Each value is set to false since no cards

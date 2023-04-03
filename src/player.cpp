@@ -1,5 +1,5 @@
-#include "headers/player.h"
-#include "headers/board.h"
+#include "player.h"
+#include "board.h"
 #include <iostream>
 
 // Adds a card to the user's "hand".
