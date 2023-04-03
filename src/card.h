@@ -48,7 +48,7 @@ public:
   void printCard() const;
   bool isBlank() const;
   int getCardValue() const;
-  Suit getCardSuit() const;
+  Suit getCardSuit() const; 
   Rank getCardRank() const;
 };
 

@@ -13,6 +13,7 @@ Game::Game(){
     player2_.setCard(deck_.dealCards());
     player3_.setCard(deck_.dealCards());
     player4_.setCard(deck_.dealCards());
+    player1_.sortHand();
   }
 }
 

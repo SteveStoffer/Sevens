@@ -1,6 +1,7 @@
 #include "player.h"
 #include "board.h"
 #include <iostream>
+#include <algorithm>
 
 // Adds a card to the user's "hand".
 void Player::setCard(const Card& card){
@@ -25,6 +26,13 @@ void Player::removeCard(const Card& card){
       hand_.erase(hand_.begin()+i);
     }
   }
+}
+
+// Sorts players hand so the game is easier to play.
+void Player::sortHand(){
+  std::sort(hand_.begin(), hand_.end(), [](const Card& a, const Card& b){
+    return (a.getCardSuit() == b.getCardSuit()) ? (a.getCardValue() < b.getCardValue()) : (a.getCardSuit() < b.getCardSuit());
+  });
 }
 
 // Returns true if the player has no cards left.

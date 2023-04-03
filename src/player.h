@@ -14,6 +14,7 @@ public:
   void setCard(const Card& card);
   void printHand() const;
   void removeCard(const Card& card);
+  void sortHand();
   bool hasWon() const;
   bool hasCard(const Card& card) const;
   int getCardCount() const;
